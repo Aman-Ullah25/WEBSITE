@@ -1,6 +1,4 @@
-import About from "@/app/About/page"
-import Home from "../app/Home/page"
-import ProductPage from "@/app/ProductPage/page"
+
 export default function NavBar() {
 return(
 <header className="bg-white shadow py-4">
